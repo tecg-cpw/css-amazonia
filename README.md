@@ -16,7 +16,7 @@ Vous trouverez dans ce dossier une page HTML nommée **index.html**. Cette page 
 
 Le rendu final désiré est le suivant :
 
-![rendu final](./rendus/amazonia.jpg)
+![rendu final](./rendus/Amazonia.jpg)
 
 ### Consignes
 
